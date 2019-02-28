@@ -1,0 +1,33 @@
+[{
+        "id": "1",
+        "musterija_Email5": "m@gmail.com",
+        "datum0": "2018-08-08",
+        "adresa1": "Bulevar",
+        "vrsta_posla_zanata2": "Elektrika",
+        "majstor_Email3": "a@gmail.com",
+        "idOglasa": "1"
+    }, {
+        "id": "4",
+        "musterija_Email5": "m@gmail.com",
+        "datum0": "2018-06-15",
+        "adresa1": "Zvezdara",
+        "vrsta_posla_zanata2": "Automehanicar",
+        "majstor_Email3": "a@gmail.com",
+        "idOglasa": "3"
+    }, {
+        "id": "9",
+        "musterija_Email5": "m@gmail.com",
+        "datum0": "2018-06-15",
+        "adresa1": "Zvezdara",
+        "vrsta_posla_zanata2": "Automehanicar",
+        "majstor_Email3": "pete@gmail.com",
+        "idOglasa": "3"
+    }, {
+        "id": "12",
+        "musterija_Email5": "m@gmail.com",
+        "datum0": "2018-06-12",
+        "adresa1": "Nis",
+        "vrsta_posla_zanata2": "Stolar",
+        "majstor_Email3": "mihajlo@gmail.com",
+        "idOglasa": "2"
+    }]

@@ -1,0 +1,22 @@
+[{
+        "naziv": "Građevinski radovi",
+        "id": "1"
+    }, {
+        "naziv": "Održavanje automobila",
+        "id": "2"
+    }, {
+        "naziv": "Obrada materijala",
+        "id": "3"
+    }, {
+        "naziv": "Garderoba i nakit",
+        "id": "4"
+    }, {
+        "naziv": "Cevne instalacije",
+        "id": "5"
+    }, {
+        "naziv": "Elektrika",
+        "id": "6"
+    }, {
+        "naziv": "Ostalo",
+        "id": "7"
+    }]

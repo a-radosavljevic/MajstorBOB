@@ -1,0 +1,24 @@
+otvoriti bin folder MongoDB servera i izvrsiti jednu po jednu mongoimport naredbu
+
+baza: mongo_baza
+ime kolekcije("tabele")  posle -c
+
+
+
+mongoimport -d mongo_baza -c admin --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\admin.json" --jsonArray
+mongoimport -d mongo_baza -c dogadjaj --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\dogadjaj.json" --jsonArray
+mongoimport -d mongo_baza -c fajl_u_bazi --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\fajl_u_bazi.json" --jsonArray
+mongoimport -d mongo_baza -c kategorija --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\kategorija.json" --jsonArray
+mongoimport -d mongo_baza -c lokacija --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\lokacija.json" --jsonArray
+mongoimport -d mongo_baza -c majstor --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\majstor.json" --jsonArray
+mongoimport -d mongo_baza -c musterija --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\musterija.json" --jsonArray
+mongoimport -d mongo_baza -c ocenjuje --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\ocenjuje.json" --jsonArray
+mongoimport -d mongo_baza -c oglas --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\oglas.json" --jsonArray
+mongoimport -d mongo_baza -c ostavljanje_komentara --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\ostavljanje_komentara.json" --jsonArray
+mongoimport -d mongo_baza -c poseduje_zanate --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\poseduje_zanate.json" --jsonArray
+mongoimport -d mongo_baza -c prijava_nepozeljnih__oglasa --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\prijava_nepozeljnih__oglasa.json" --jsonArray
+mongoimport -d mongo_baza -c prijava_nezeljenih_profila --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\prijava_nezeljenih_profila.json" --jsonArray
+mongoimport -d mongo_baza -c prijava_za_posao --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\prijava_za_posao.json" --jsonArray
+mongoimport -d mongo_baza -c radi_na --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\radi_na.json" --jsonArray
+mongoimport -d mongo_baza -c razmena_poruka --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\razmena_poruka.json" --jsonArray
+mongoimport -d mongo_baza -c zanat --drop --file "C:\wamp64\www\NapredneBazeMongoProjekat\JSON podaci\zanat.json" --jsonArray

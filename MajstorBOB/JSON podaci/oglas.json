@@ -1,0 +1,118 @@
+[{
+        "id": "1",
+        "tekst_oglasa": "Kvar na bojleru",
+        "datum": "2018-06-08",
+        "adresa": "Bulevar",
+        "vrsta_posla_zanata": "Elektricar",
+        "majstor_koji_radi_email": "a@gmail.com",
+        "musterija_Email5": "m@gmail.com",
+        "mesto6": "Niš"
+    }, {
+        "id": "2",
+        "tekst_oglasa": "Stolarija",
+        "datum": "2018-06-12",
+        "adresa": "Niš",
+        "vrsta_posla_zanata": "Stolar",
+        "majstor_koji_radi_email": null,
+        "musterija_Email5": "m@gmail.com",
+        "mesto6": "Niš"
+    }, {
+        "id": "3",
+        "tekst_oglasa": "Kvar na automobilu",
+        "datum": "2018-06-15",
+        "adresa": "Zvezdara",
+        "vrsta_posla_zanata": "Automehanicar",
+        "majstor_koji_radi_email": "pete@gmail.com",
+        "musterija_Email5": "m@gmail.com",
+        "mesto6": "Beograd"
+    }, {
+        "id": "11",
+        "tekst_oglasa": "Gradi se kuća negde tamo. Potrebno je svaša nešto... Ovo se radi ono se radi ",
+        "datum": "2018-06-20",
+        "adresa": "Neki deo grada",
+        "vrsta_posla_zanata": "Gradjevinar",
+        "majstor_koji_radi_email": null,
+        "musterija_Email5": "dejan@gmail.com",
+        "mesto6": "Jagodina"
+    }, {
+        "id": "12",
+        "tekst_oglasa": "Potreban automehaničar",
+        "datum": "2018-06-20",
+        "adresa": "Palilula",
+        "vrsta_posla_zanata": "Automehaničar",
+        "majstor_koji_radi_email": null,
+        "musterija_Email5": "angie@gmail.com",
+        "mesto6": "Niš"
+    }, {
+        "id": "13",
+        "tekst_oglasa": "Opet automehaničar",
+        "datum": "2018-06-20",
+        "adresa": "Palilula",
+        "vrsta_posla_zanata": "Automehaničar",
+        "majstor_koji_radi_email": null,
+        "musterija_Email5": "angie@gmail.com",
+        "mesto6": "Niš"
+    }, {
+        "id": "14",
+        "tekst_oglasa": "Nešto",
+        "datum": "2018-06-20",
+        "adresa": "Trošarina",
+        "vrsta_posla_zanata": "Automehaničar",
+        "majstor_koji_radi_email": null,
+        "musterija_Email5": "angie@gmail.com",
+        "mesto6": "Niš"
+    }, {
+        "id": "15",
+        "tekst_oglasa": "Ne\u00c5\u00a1to",
+        "datum": "2018-06-20",
+        "adresa": "Trošarina",
+        "vrsta_posla_zanata": "Automehaničar",
+        "majstor_koji_radi_email": null,
+        "musterija_Email5": "angie@gmail.com",
+        "mesto6": "Niš"
+    }, {
+        "id": "16",
+        "tekst_oglasa": "Nešto",
+        "datum": "2018-06-20",
+        "adresa": "Trošarina",
+        "vrsta_posla_zanata": "Automehaničar",
+        "majstor_koji_radi_email": null,
+        "musterija_Email5": "angie@gmail.com",
+        "mesto6": "Niš"
+    }, {
+        "id": "17",
+        "tekst_oglasa": "Nešto",
+        "datum": "2018-06-20",
+        "adresa": "Trošarina",
+        "vrsta_posla_zanata": "Automehaničar",
+        "majstor_koji_radi_email": null,
+        "musterija_Email5": "angie@gmail.com",
+        "mesto6": "Niš"
+    }, {
+        "id": "18",
+        "tekst_oglasa": "Nešto",
+        "datum": "2018-06-20",
+        "adresa": "Palilula",
+        "vrsta_posla_zanata": "Automehaničar",
+        "majstor_koji_radi_email": null,
+        "musterija_Email5": "angie@gmail.com",
+        "mesto6": "Niš"
+    }, {
+        "id": "19",
+        "tekst_oglasa": "Potreban električar",
+        "datum": "2018-06-20",
+        "adresa": "Slavija",
+        "vrsta_posla_zanata": "Električar",
+        "majstor_koji_radi_email": null,
+        "musterija_Email5": "angie@gmail.com",
+        "mesto6": "Beograd"
+    }, {
+        "id": "20",
+        "tekst_oglasa": "Potreban stolar za pravljenje drvenog kreveta.",
+        "datum": "2018-06-20",
+        "adresa": "Petra Kočića",
+        "vrsta_posla_zanata": "Stolar",
+        "majstor_koji_radi_email": null,
+        "musterija_Email5": "angie@gmail.com",
+        "mesto6": "Beograd"
+    }]

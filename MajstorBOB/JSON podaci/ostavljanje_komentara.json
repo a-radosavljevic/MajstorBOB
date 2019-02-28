@@ -1,0 +1,49 @@
+[{
+        "id": "1",
+        "musterija_Email0": "n@gmail.com",
+        "majstor_Email1": "a@gmail.com",
+        "komentar_poz_tekst": "Dobar i efikasan majstor",
+        "komentar_neg_tekst": "Malo skup"
+    }, {
+        "id": "3",
+        "musterija_Email0": "neko",
+        "majstor_Email1": "a@gmail.com",
+        "komentar_poz_tekst": "Sve super",
+        "komentar_neg_tekst": "Nemam zamerki"
+    }, {
+        "id": "15",
+        "musterija_Email0": "angie@gmail.com",
+        "majstor_Email1": "a@gmail.com",
+        "komentar_poz_tekst": "Veoma sam zadovoljna.",
+        "komentar_neg_tekst": "Skoro da nema zamerki!"
+    }, {
+        "id": "10",
+        "musterija_Email0": "n@gmail.com",
+        "majstor_Email1": "beba@gmail.com",
+        "komentar_poz_tekst": "Veoma lepa",
+        "komentar_neg_tekst": "Veoma skupa"
+    }, {
+        "id": "12",
+        "musterija_Email0": "n@gmail.com",
+        "majstor_Email1": "jovan@gmail.com",
+        "komentar_poz_tekst": "Kakvo ime",
+        "komentar_neg_tekst": "Takav i majstor"
+    }, {
+        "id": "16",
+        "musterija_Email0": "angie@gmail.com",
+        "majstor_Email1": "peka@gmail.com",
+        "komentar_poz_tekst": "Skoro sve super",
+        "komentar_neg_tekst": "Malo je kasnio"
+    }, {
+        "id": "18",
+        "musterija_Email0": "Mile",
+        "majstor_Email1": "peka@gmail.com",
+        "komentar_poz_tekst": "Najbolji",
+        "komentar_neg_tekst": "Nista"
+    }, {
+        "id": "19",
+        "musterija_Email0": "Momcilo",
+        "majstor_Email1": "a@gmail.com",
+        "komentar_poz_tekst": "Odlican majstor",
+        "komentar_neg_tekst": "Nema zamerki"
+    }]

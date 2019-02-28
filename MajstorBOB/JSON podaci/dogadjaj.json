@@ -1,0 +1,43 @@
+[{
+        "id": 1,
+        "datum": "2018-06-20",
+        "emailKorisnika": "a@gmail.com",
+        "vreme": "10:00-12:00",
+        "nazivDogadjaja": "Obaveze"
+    }, {
+        "id": 3,
+        "datum": "2018-06-21",
+        "emailKorisnika": "a@gmail.com",
+        "vreme": "19:00-20:00",
+        "nazivDogadjaja": "Koncert"
+    }, {
+        "id": 4,
+        "datum": "2018-06-25",
+        "emailKorisnika": "a@gmail.com",
+        "vreme": "11:45-12:00",
+        "nazivDogadjaja": "Licna karta"
+    }, {
+        "id": 9,
+        "datum": "2018-06-23",
+        "emailKorisnika": "a@gmail.com",
+        "vreme": "00:00-23:59",
+        "nazivDogadjaja": "Odmor"
+    }, {
+        "id": 6,
+        "datum": "2018-06-19",
+        "emailKorisnika": "a@gmail.com",
+        "vreme": "00:00-23:59",
+        "nazivDogadjaja": "Proslost"
+    }, {
+        "id": 10,
+        "datum": "2018-06-22",
+        "emailKorisnika": "pete@gmail.com",
+        "vreme": "20:00-21:00",
+        "nazivDogadjaja": "petak"
+    }, {
+        "id": 12,
+        "datum": "2018-06-28",
+        "emailKorisnika": "a@gmail.com",
+        "vreme": "08:00-16:00",
+        "nazivDogadjaja": "Zidanje"
+    }]

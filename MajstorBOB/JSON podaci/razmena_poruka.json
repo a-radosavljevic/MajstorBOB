@@ -1,0 +1,92 @@
+[{
+        "id": "32",
+        "majstor_Email0": "pete@gmail.com",
+        "musterija_Email1": "m@gmail.com",
+        "datum_slanja_poruke": "2018-06-18 19:05:15",
+        "tekst_poruke": "AUTOMATSKA PORUKA: musterija:m@gmail.comVas je angazovao za posao Automehanicar Kvar na automobilu Beograd. ",
+        "posiljaoc": "musterija"
+    }, {
+        "id": "30",
+        "majstor_Email0": "a@gmail.com",
+        "musterija_Email1": "m@gmail.com",
+        "datum_slanja_poruke": "2018-06-18 17:38:29",
+        "tekst_poruke": "hej hocu da radim na tvom oglasu",
+        "posiljaoc": "majstor"
+    }, {
+        "id": "31",
+        "majstor_Email0": "pete@gmail.com",
+        "musterija_Email1": "m@gmail.com",
+        "datum_slanja_poruke": "2018-06-18 19:00:12",
+        "tekst_poruke": "AUTOMATSKA PORUKA: majstor:pete@gmail.comje prijavljen za oglas Automehanicar Kvar na automobilu Beograd. ",
+        "posiljaoc": "majstor"
+    }, {
+        "id": "52",
+        "majstor_Email0": "a@gmail.com",
+        "musterija_Email1": "m@gmail.com",
+        "datum_slanja_poruke": "2018-06-20 17:29:32",
+        "tekst_poruke": "Jos jedna poruka",
+        "posiljaoc": "majstor"
+    }, {
+        "id": "37",
+        "majstor_Email0": "mihajlo@gmail.com",
+        "musterija_Email1": "m@gmail.com",
+        "datum_slanja_poruke": "2018-06-19 00:13:44",
+        "tekst_poruke": "AUTOMATSKA PORUKA: majstor:mihajlo@gmail.com je prijavljen za oglas Stolar Stolarija Nis. ",
+        "posiljaoc": "majstor"
+    }, {
+        "id": "38",
+        "majstor_Email0": "peka@gmail.com",
+        "musterija_Email1": "angie@gmail.com",
+        "datum_slanja_poruke": "2018-06-19 01:14:20",
+        "tekst_poruke": "Hej, mozee broj?",
+        "posiljaoc": "musterija"
+    }, {
+        "id": "49",
+        "majstor_Email0": "a@gmail.com",
+        "musterija_Email1": "m@gmail.com",
+        "datum_slanja_poruke": "2018-06-20 16:33:09",
+        "tekst_poruke": "nova poruka",
+        "posiljaoc": "majstor"
+    }, {
+        "id": "50",
+        "majstor_Email0": "a@gmail.com",
+        "musterija_Email1": "m@gmail.com",
+        "datum_slanja_poruke": "2018-06-20 17:28:48",
+        "tekst_poruke": "Jos jedna poruka",
+        "posiljaoc": "majstor"
+    }, {
+        "id": "51",
+        "majstor_Email0": "a@gmail.com",
+        "musterija_Email1": "m@gmail.com",
+        "datum_slanja_poruke": "2018-06-20 17:29:18",
+        "tekst_poruke": "Jos jedna poruka",
+        "posiljaoc": "majstor"
+    }, {
+        "id": "48",
+        "majstor_Email0": "a@gmail.com",
+        "musterija_Email1": "m@gmail.com",
+        "datum_slanja_poruke": "2018-06-20 11:16:33",
+        "tekst_poruke": "U redu",
+        "posiljaoc": "majstor"
+    }, {
+        "id": "45",
+        "majstor_Email0": "a@gmail.com",
+        "musterija_Email1": "m@gmail.com",
+        "datum_slanja_poruke": "2018-06-20 01:20:23",
+        "tekst_poruke": "Ispravljene poruke",
+        "posiljaoc": "majstor"
+    }, {
+        "id": "46",
+        "majstor_Email0": "a@gmail.com",
+        "musterija_Email1": "m@gmail.com",
+        "datum_slanja_poruke": "2018-06-20 10:46:19",
+        "tekst_poruke": "Proba poruke",
+        "posiljaoc": "majstor"
+    }, {
+        "id": "47",
+        "majstor_Email0": "a@gmail.com",
+        "musterija_Email1": "m@gmail.com",
+        "datum_slanja_poruke": "2018-06-20 10:55:47",
+        "tekst_poruke": "Odgovor",
+        "posiljaoc": "musterija"
+    }]

@@ -1,0 +1,31 @@
+[{
+        "id": "1",
+        "majstor_Email0": "a@gmail.com",
+        "musterija_Email1": "n@gmail.com",
+        "prijavljeni_profil": "a@gmail.com"
+    }, {
+        "id": "3",
+        "majstor_Email0": null,
+        "musterija_Email1": null,
+        "prijavljeni_profil": "ani@gmail.com"
+    }, {
+        "id": "4",
+        "majstor_Email0": null,
+        "musterija_Email1": null,
+        "prijavljeni_profil": "m@gmail.com"
+    }, {
+        "id": "5",
+        "majstor_Email0": null,
+        "musterija_Email1": null,
+        "prijavljeni_profil": "ani@gmail.com"
+    }, {
+        "id": "6",
+        "majstor_Email0": "ne znam",
+        "musterija_Email1": null,
+        "prijavljeni_profil": "10"
+    }, {
+        "id": "7",
+        "majstor_Email0": "$razlog",
+        "musterija_Email1": null,
+        "prijavljeni_profil": "$id"
+    }]
